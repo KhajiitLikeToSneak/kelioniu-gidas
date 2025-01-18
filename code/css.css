@@ -1,0 +1,136 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+h3 {
+	text-align: center;
+	font-weight: bold;
+}
+h2 {
+	text-align: center;
+	font-weight: bold;
+}
+
+form {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #888;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+form[action=""] input[type="submit"] {
+    background-color: #f44336;
+}
+
+form[action=""] input[type="submit"]:hover {
+    background-color: #d32f2f;
+}
+
+button.red-button {
+    background-color: #f44336;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button.red-button:hover {
+    background-color: #d32f2f;
+}
+
+
+.containerFUN {
+    text-align: center;
+}
+
+button.fun-button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+	display: inline-block;
+	font-size: 16px;
+}
+
+button.fun-button:hover {
+    background-color: #45a049;
+}
+
+button.fun-buttonA {
+    background-color: #f44336;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+	display: inline-block;
+	font-size: 16px;
+}
+
+button.fun-buttonA:hover {
+    background-color: #d32f2f;
+}
+
+button.below {
+    background-color: #f44336;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+    font-size: 16px;
+}
+
+button.below:hover {
+    background-color: #d32f2f;
+}
+
+
+.containerInput {
+    width: 25%;
+    margin: 0 auto;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
