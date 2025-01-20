@@ -18,7 +18,7 @@ Papildomos funkcijos:
 
 Sistemos vartotojų tipai:
 
-* Keliautojas – gali atlikti visas išvardintas pagrindines ir papildomas funkcijas. 
+* Keliautojas – gali atlikti visas išvardintas pagrindines funkcijas, taip pat generuoti kelionės aprašymą ir naudotis forumu. 
 * Kūrėjas – gali sukurti naują objektą. 
 * Administratorius – gali užlbokuoti ar atblokuoti vartotoją.
 
